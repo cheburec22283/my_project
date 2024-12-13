@@ -1,7 +1,0 @@
-digraph {
-	rankdir=LR
-	cf9886d615d0801e99f1c27c77e7db0c77c0bb67 [label="cf9886d
-test.txt"]
-	"15bb8d5eb138d2a03e08f065da959ea1319de79f" [label="15bb8d5
-test.txt"]
-}
