@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="forest">#7650D8</color>
+    <color name="forest_deep">#4E2AA8</color>
+    <color name="forest_soft">#E9E0FF</color>
+    <color name="fresh">#6552BD</color>
+    <color name="fresh_soft">#E8E3FF</color>
+    <color name="butter">#C7ACFF</color>
+    <color name="butter_soft">#F1EAFF</color>
+    <color name="butter_deep">#40276F</color>
+    <color name="mint">#FAF8FF</color>
+    <color name="paper">#FFFFFF</color>
+    <color name="mint_variant">#F3EFFA</color>
+    <color name="mint_line">#E4DDF1</color>
+    <color name="ink">#251D35</color>
+    <color name="ink_soft">#786D8D</color>
+    <color name="berry">#D83F58</color>
+    <color name="berry_soft">#FFE5EA</color>
+    <color name="pine">#130F1D</color>
+    <color name="pine_card">#211A30</color>
+    <color name="pine_variant">#342944</color>
+    <color name="lime">#B9A0FF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Мягкая анимация переходов между экранами -->
+    <style name="Animation.FoodDelivery.Window" parent="@android:style/Animation.Activity" />
+
+    <!-- Текстовые стили (для системных виджетов и Compose-интероп) -->
+    <style name="TextAppearance.FoodDelivery.Display" parent="android:TextAppearance.Material.Headline">
+        <item name="android:textSize">@dimen/text_display</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/ink</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="TextAppearance.FoodDelivery.Headline" parent="android:TextAppearance.Material.Headline">
+        <item name="android:textSize">@dimen/text_headline</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/ink</item>
+    </style>
+
+    <style name="TextAppearance.FoodDelivery.Title" parent="android:TextAppearance.Material.Title">
+        <item name="android:textSize">@dimen/text_title</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/ink</item>
+    </style>
+
+    <style name="TextAppearance.FoodDelivery.Body" parent="android:TextAppearance.Material.Body1">
+        <item name="android:textSize">@dimen/text_body</item>
+        <item name="android:textColor">@color/ink</item>
+    </style>
+
+    <style name="TextAppearance.FoodDelivery.Caption" parent="android:TextAppearance.Material.Caption">
+        <item name="android:textSize">@dimen/text_caption</item>
+        <item name="android:textColor">@color/ink_soft</item>
+    </style>
+
+    <style name="TextAppearance.FoodDelivery.Price" parent="android:TextAppearance.Material.Subhead">
+        <item name="android:textSize">@dimen/text_subtitle</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/forest</item>
+    </style>
+
+</resources>

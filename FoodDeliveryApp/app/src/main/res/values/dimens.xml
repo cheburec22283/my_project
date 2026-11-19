@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Отступы: «много воздуха» -->
+    <dimen name="space_xs">4dp</dimen>
+    <dimen name="space_s">8dp</dimen>
+    <dimen name="space_m">12dp</dimen>
+    <dimen name="space_l">16dp</dimen>
+    <dimen name="space_xl">20dp</dimen>
+    <dimen name="space_xxl">24dp</dimen>
+    <dimen name="space_xxxl">32dp</dimen>
+    <dimen name="screen_padding">20dp</dimen>
+
+    <!-- Скругления -->
+    <dimen name="radius_chip">12dp</dimen>
+    <dimen name="radius_field">16dp</dimen>
+    <dimen name="radius_card">22dp</dimen>
+    <dimen name="radius_sheet">30dp</dimen>
+    <dimen name="radius_hero">30dp</dimen>
+    <dimen name="radius_button">18dp</dimen>
+
+    <!-- Мягкие тени -->
+    <dimen name="elevation_card">0dp</dimen>
+    <dimen name="elevation_button">0dp</dimen>
+    <dimen name="elevation_sheet">16dp</dimen>
+
+    <!-- Размеры элементов -->
+    <dimen name="button_height">58dp</dimen>
+    <dimen name="icon_button">44dp</dimen>
+    <dimen name="thumb_small">72dp</dimen>
+    <dimen name="thumb_medium">96dp</dimen>
+    <dimen name="photo_card_height">180dp</dimen>
+    <dimen name="photo_hero_height">320dp</dimen>
+
+    <!-- Шрифты -->
+    <dimen name="text_display">32sp</dimen>
+    <dimen name="text_headline">28sp</dimen>
+    <dimen name="text_title">22sp</dimen>
+    <dimen name="text_subtitle">18sp</dimen>
+    <dimen name="text_body">16sp</dimen>
+    <dimen name="text_caption">13sp</dimen>
+</resources>

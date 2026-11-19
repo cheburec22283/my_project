@@ -1,0 +1,22 @@
+# Build directories
+build/
+.gradle/
+out/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Логи
+*.log
+
+# ВАЖНО: Не коммитить секреты!
+src/main/resources/firebase-admin-sdk.json
+.env
+local.properties
+
+# OS
+.DS_Store
+Thumbs.db
